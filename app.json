@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pumangkirange.snack2bca0be2153e4c35b6025edf716c5b10"
     },
     "web": {
       "favicon": "./assets/favicon.png"
